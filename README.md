@@ -1,5 +1,5 @@
 
-# Hi there! I'm Hyunjun Park 👋
+# Hi there! I'm Hyeonjun Park 👋
 
 🎓 Pusan National University  
 💻 Computer Science & AI Student  
